@@ -2,3 +2,5 @@ Critérios necessários para Entrada no Parque:
 
 - O veículo tem que ser válido;
 - Tem que haver vaga dísponivel;
+
+Clarificar o comportamento esperado quando existe vaga disponível e quando o parque está completo.
